@@ -1,0 +1,3 @@
+/home/jkim/workspace/sandbox/opencv-test/image-display/build/CMakeFiles/rebuild_cache.dir
+/home/jkim/workspace/sandbox/opencv-test/image-display/build/CMakeFiles/edit_cache.dir
+/home/jkim/workspace/sandbox/opencv-test/image-display/build/CMakeFiles/DisplayImage.dir

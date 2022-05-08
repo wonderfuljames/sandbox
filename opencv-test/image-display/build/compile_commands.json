@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jkim/workspace/sandbox/opencv-test/image-display/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o -c /home/jkim/workspace/sandbox/opencv-test/image-display/DisplayImage.cpp",
+  "file": "/home/jkim/workspace/sandbox/opencv-test/image-display/DisplayImage.cpp"
+}
+]
