@@ -1,3 +1,0 @@
-/home/jkim/workspace/sandbox/opencv-test/version/CMakeFiles/rebuild_cache.dir
-/home/jkim/workspace/sandbox/opencv-test/version/CMakeFiles/edit_cache.dir
-/home/jkim/workspace/sandbox/opencv-test/version/CMakeFiles/cv-version.dir
